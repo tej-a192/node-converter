@@ -1,0 +1,13 @@
+{
+  "name": "converter",
+  "version": "1.0.0",
+  "main": "sample.js",
+  "scripts": {
+    "start": "node sample.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
