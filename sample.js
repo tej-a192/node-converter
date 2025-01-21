@@ -5,9 +5,9 @@ function inrToUsd(amount) {
   return amount / exchangeRate; // INR to USD
 }
 
-// Function to convert USD to INR
+
 function usdToInr(amount) {
-  return amount * exchangeRate; // USD to INR
+  return amount * exchangeRate;
 }
 
 // User input dynamically using readline
